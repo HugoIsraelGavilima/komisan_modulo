@@ -7,7 +7,7 @@ setup(
     install_requires=[
         "optbinning==0.18.0",
         "imblearn",
-        "scikit-learn==1.3.2",
+        "scikit-learn==1.1.3",
         "statsmodels"
     ],
 )
