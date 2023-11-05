@@ -1,0 +1,22 @@
+{
+    "to_title": {
+        "color": "#5A0608",
+        "weight": "roman",
+        "fontname": "Century Gothic",
+        "fontsize": 14
+    },
+    "to_text": {
+        "ha": "center",
+        "va": "bottom",
+        "fontsize": 9,
+        "fontweight": "roman",
+        "fontname": "Century Gothic",
+        "alpha": 0.7
+    },
+    "to_labels":{
+        "color": "#350D33",
+        "fontname": "Century Gothic",
+        "fontweight": "roman",
+        "fontsize": 10
+    }
+}
